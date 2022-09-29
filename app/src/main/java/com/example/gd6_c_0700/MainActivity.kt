@@ -73,6 +73,7 @@ class MainActivity : AppCompatActivity() {
             .setAutoCancel(true)
             .setOnlyAlertOnce(true)
             .setContentIntent(pendingIntent)
+            .addAction(R.mipmap.ic_launcher, "Toast", actionIntent)
             .setPriority(NotificationCompat.PRIORITY_DEFAULT)
 
         with(NotificationManagerCompat.from(this)){

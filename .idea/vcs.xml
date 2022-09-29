@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GD-Modul-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GD1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GD1/Guided3_StringExtra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GD1/Guided4_Bundle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GD3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GDRoom_C_10700" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GDViewBinding/data_binding_10700" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GDViewBinding/shareP_10700" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GDViewBinding/view_binding_10700" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TubesPBP" vcs="Git" />
+  </component>
+</project>
